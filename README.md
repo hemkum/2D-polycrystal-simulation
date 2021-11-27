@@ -1,2 +1,2 @@
 # 2D-polycrystal-simulation
-Generation of 2D polycrystal Voronoi Diagram with grain boundaries
+Generation of Voronoi Diagram for 2D polycrystalline structure with grain boundaries and tunable parameters
